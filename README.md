@@ -17,5 +17,5 @@ Napisz program, który wypisze na ekranie wszystkie liczby pierwsze z zadanego z
 to dwie liczby naturalne, gdzie każda z nich jest równa sumie dzielników właściwych drugiej liczby. 
 Napisz program wypisujący liczby zaprzyjaźnione z zadanego zakresu.
 
-## Zadanie 2 [3 pkt]
+## Zadanie 3 [3 pkt]
 Dla zadanego N, napisz program wyliczający N-tą [liczbę Fibonacciego](https://pl.wikipedia.org/wiki/Ci%C4%85g_Fibonacciego).
